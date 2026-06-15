@@ -1,0 +1,14 @@
+﻿# Dataset construction and EDA
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+
+# MIMIC waveform extraction
+wfdb
+tqdm
+
+# Notebook execution
+jupyter
+ipython

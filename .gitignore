@@ -1,0 +1,17 @@
+﻿# Generated/released datasets are too large for normal GitHub.
+data/*.csv
+data/intermediate/
+data/mimic_clinical/
+work/
+reports/
+figures/
+
+# Notebook/runtime noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local environment
+.venv/
+.venvcad/
+.env
